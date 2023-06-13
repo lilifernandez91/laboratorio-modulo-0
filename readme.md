@@ -43,7 +43,11 @@
 <img src="./images/connection.png">
 
 <img src="./images/repo.png">
-    
+
 3. Commit y push
 
-- Como anteriormente ya se había creado un archivo llamado *readme.md*
+- Como anteriormente ya se había creado un archivo llamado *readme.md* lo que se hizo fue agregar el contenido de este archivo y actualizar los cambios.
+ 
+<img src="./images/message.png">
+
+<img src="./images/push.png">
