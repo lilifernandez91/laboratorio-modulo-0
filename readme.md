@@ -44,6 +44,8 @@
 
 <img src="./images/repo.png">
 
+***
+
 3. Commit y push
 
 - Como anteriormente ya se había creado un archivo llamado *readme.md* lo que se hizo fue agregar el contenido de este archivo y actualizar los cambios.
@@ -51,3 +53,32 @@
 <img src="./images/message.png">
 
 <img src="./images/push.png">
+
+- Refrescamos el repositorio de GitHub y comprobamos si se actualizaron los cambios.
+
+***
+
+4. Crear una rama
+
+- Se ejecuta el siguiente comando para crear una nueva rama:
+
+> git checkout -b new-branch
+
+- Y para renombrar la rama pues la nombramos mal ejecutamos:
+
+> git branch --move new-branch development
+
+<img src="./images/branch.png">
+ 
+- Subimos la rama rama development a GitHub con el comando: 
+
+> git push -u origin development
+
+<img src="./images/pushbranch.png">
+
+- Subimos los cambios a GitHub.
+
+***
+
+5. Merge
+
