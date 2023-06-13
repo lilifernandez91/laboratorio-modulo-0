@@ -82,3 +82,10 @@
 
 5. Merge
 
+- Vuelvo a la rama main.
+- Hago merge de la rama development a main.
+- Si hay conflicto los soluciono, si no hay conflictos los cambios de la rama development de incorporan a la rama main.
+- Hago push de los cambios al repositorio de GitHub.
+
+<img src="./images/merge.png">
+
